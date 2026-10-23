@@ -9,7 +9,7 @@
 **Cuphead 모작 · 개인 프로젝트**<br/>
 **개발 기간:** 2025.10.27 ~ 2025.11.07 (약 2주)<br/>
 **개발 환경:** C++ · Win32 API · GDI · FMOD · Visual Studio 2022<br/>
-**URL:** 추후 추가
+**URL:** https://youtu.be/bUSrnUQbMnU
 
 ## 하이라이트
 
